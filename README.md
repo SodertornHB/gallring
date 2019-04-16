@@ -8,3 +8,5 @@ Skript för att radera beståndsposter och kurslitteraturmärkningar.
 
 - removeRefs tar emot en lista med beståndsposter och tar bort deras kurslitteraturmärkning om sådan finns.
 
+- fonster fungerar som grafiskt gränssnitt och tar emot den textfil vi vill använda oss av.
+
