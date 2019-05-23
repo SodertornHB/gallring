@@ -1,7 +1,7 @@
 import requests
 import time
 
-auth_token = 'XacI8G3bBpxD9zHVa3zjWTMzFJ7SSh'
+auth_token = ''#din token
 headers = {'Authorization': 'Bearer ' + auth_token, 'XL-Active-Sigel': 'D'}
 fil = open('raderadeposter.txt', 'w')
 fil.writelines("Raderat")

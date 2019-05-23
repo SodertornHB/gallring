@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-auth_token = 'KCwR7Wix0QMSkv1BeAvIJb7cfqwrXc'
+auth_token = ''#din token
 lyckadfil = open('modifieradeposter.txt', 'w')
 misslyckadfil = open('misslyckadeposter.txt', 'w')
 lyckadfil.writelines("Modifierade")
